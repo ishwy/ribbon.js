@@ -5,7 +5,7 @@
   "summary": "only 1kb javascript gist to generate a ribbon in your website with HTML5 canvas.",
   "description": "only 1kb javascript gist to generate a ribbon in your website with HTML5 canvas.",
   "author": {
-    "name": "hustcc",
+    "name": "ishwy",
     "url": "http://aibq.cn/"
   },
   "homepage": "http://aibq.cn/",
@@ -18,10 +18,10 @@
   "main": "dist/ribbon.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hustcc/ribbon.js"
+    "url": "https://github.com/ishwy/ribbon.js"
   },
   "bugs": {
-    "url": "https://github.com/hustcc/ribbon.js/issues"
+    "url": "https://github.com/ishwy/ribbon.js/issues"
   },
   "devDependencies": {
     "gulp": "^3.9.0",

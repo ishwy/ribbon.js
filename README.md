@@ -2,7 +2,7 @@
 
 > Only 1kb javascript gist to generate a **ribbon** in your website with HTML5 canvas. Code from [evanyou](http://evanyou.me/).
 
-![travis-ci](https://travis-ci.org/hustcc/ribbon.js.svg?branch=master)
+![travis-ci](https://travis-ci.org/ishwy/ribbon.js.svg?branch=master)
 
 
 ## 1. usage
